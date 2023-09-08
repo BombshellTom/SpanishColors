@@ -1,21 +1,29 @@
-#red {
+body {
+    background-color: #f0f0f0;
+}
+
+#red, #thec {
     color: red;
 }
 
-#blue {
+#blue, #ther {
     color: blue;
 }
 
-#orange {
+#orange, #theo {
     color: orange;
 }
 
-#green {
+#green, #the0two {
     color: green;
 }
 
-#yellow {
-    color: yellow;
+#yellow, #thel {
+    color: #FFD700;
+}
+
+#thes {
+    color: blueviolet;
 }
 
 .color-title {
