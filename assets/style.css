@@ -1,3 +1,28 @@
-body {
-    background-color: ;
+#red {
+    font: red;
+}
+
+#blue {
+    font: blue;
+}
+
+#orange {
+    font: orange;
+}
+
+#green {
+    font: green;
+}
+
+#yellow {
+    font: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
 }
